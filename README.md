@@ -1,10 +1,9 @@
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+
 # COPILOT CHAT EN VENTAS
 
 Este seminario transforma el ciclo de ventas mediante el uso de IA para eficientar la preparación de propuestas y la comunicación con clientes. El programa se enfoca en la investigación automatizada de mercado, la diferenciación técnica frente a la competencia y el uso de un Copilot especializado para generar cotizaciones precisas, simulaciones de precios y catálogos digitales con descripciones persuasivas.
 
-## Estructura
-
-- `CapituloXX/README.md`: guía de laboratorio por capítulo.
 
 ## Lista de laboratorios
 
@@ -32,8 +31,13 @@ Este seminario transforma el ciclo de ventas mediante el uso de IA para eficient
   - Descripción: Aplicar simulaciones y automatización de reportes.
   - Duración estimada: 100 min
 
-## Flujo de colaboración
+---
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+## 📬 **Contacto y más información**
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+---
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
+
